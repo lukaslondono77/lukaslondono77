@@ -41,6 +41,8 @@ API Architecture        ██████████████████�
 Security & Compliance   ██████████████████░░  Zero Trust · PII · OWASP
 AI & DevOps Integration ██████████████████░░  Local LLMs · Ollama · CUDA
 Desktop AI Tooling      ████████████████████  Electron · Mermaid.js · CUDA
+```
+
 ---
 
 ## Support Open Source
