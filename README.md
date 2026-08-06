@@ -33,3 +33,19 @@ With deep experience across AWS, Azure, and GCP — and a strong background in C
 ---
 
 ## Core Expertise
+Cloud Infrastructure ████████████████████ AWS · Azure · GCP CI/CD & Automation ████████████████████ Tekton · GitHub Actions · ArgoCD API Architecture ███████████████████░ API Gateways · REST · GraphQL Security & Compliance ██████████████████░░ Zero Trust · PII · OWASP AI & DevOps Integration ██████████████████░░ Local LLMs · Ollama · CUDA Desktop AI Tooling ████████████████████ Electron · Mermaid.js · CUDA
+
+
+---
+
+## Support Open Source
+
+If my tools have saved you time or helped your team ship better software, consider sponsoring my work to help these projects grow.
+
+**[💖 Become a Sponsor](https://github.com/sponsors/lukaslondono77)**
+
+---
+
+<div align="center">
+<sub>Built with precision · Shipped with purpose · Open source forever</sub>
+</div>
