@@ -33,9 +33,14 @@ With deep experience across AWS, Azure, and GCP — and a strong background in C
 ---
 
 ## Core Expertise
-Cloud Infrastructure ████████████████████ AWS · Azure · GCP CI/CD & Automation ████████████████████ Tekton · GitHub Actions · ArgoCD API Architecture ███████████████████░ API Gateways · REST · GraphQL Security & Compliance ██████████████████░░ Zero Trust · PII · OWASP AI & DevOps Integration ██████████████████░░ Local LLMs · Ollama · CUDA Desktop AI Tooling ████████████████████ Electron · Mermaid.js · CUDA
 
-
+```text
+Cloud Infrastructure    ████████████████████  AWS · Azure · GCP
+CI/CD & Automation      ████████████████████  Tekton · GitHub Actions · ArgoCD
+API Architecture        ███████████████████░  API Gateways · REST · GraphQL
+Security & Compliance   ██████████████████░░  Zero Trust · PII · OWASP
+AI & DevOps Integration ██████████████████░░  Local LLMs · Ollama · CUDA
+Desktop AI Tooling      ████████████████████  Electron · Mermaid.js · CUDA
 ---
 
 ## Support Open Source
